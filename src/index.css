@@ -1,6 +1,5 @@
 body {
-  background-color: rgb(9, 59, 66);
-  background-image: url("./fitness.png") ;
+  background-image: linear-gradient(to right, rgb(49, 125, 38) , rgb(78, 237, 240));
   background-size: 100% 100%;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
